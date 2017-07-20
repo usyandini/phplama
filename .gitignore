@@ -1,0 +1,10 @@
+/node_modules
+/storage/*.key
+/vendor
+/.idea
+app\Exceptions\Handler.php
+Homestead.json
+Homestead.yaml
+.env
+.svn
+.phpintel/
